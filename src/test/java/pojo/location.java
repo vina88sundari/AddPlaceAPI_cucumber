@@ -2,7 +2,7 @@ package pojo;
 
 public class location {
 	
-	private double lat;
+	private float lat;
 	private double lng;
 	public double getLat() {
 		return lat;
