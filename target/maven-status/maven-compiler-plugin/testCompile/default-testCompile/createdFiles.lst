@@ -1,0 +1,8 @@
+testrunnerclass\TestRunner.class
+stepDefinations\AddplaceAPI.class
+utils\resource.class
+pojo\location.class
+utils\Hooks.class
+utils\utils.class
+testdata\addapitestdata.class
+pojo\AddplaceAPI.class
